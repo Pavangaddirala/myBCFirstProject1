@@ -1,0 +1,32 @@
+{
+  "id": "decd7632-2be5-4456-98a1-01ecf7a79191",
+  "name": "myBCTrainingApp",
+  "publisher": "pavangaddirala",
+  "version": "1.0.0.0",
+  "brief": "first application BC TRaining",
+  "description": "First application",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Images/Test Image.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
